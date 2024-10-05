@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bc69d60.css",
+    "main.js": "/static/js/main.8ed93b89.js",
+    "static/media/grass_background.jpeg": "/static/media/grass_background.1616ea13b2b6080890ce.jpeg",
+    "static/media/lucky_rabbit.jpeg": "/static/media/lucky_rabbit.d53139021ef3e47c6295.jpeg",
+    "index.html": "/index.html",
+    "main.0bc69d60.css.map": "/static/css/main.0bc69d60.css.map",
+    "main.8ed93b89.js.map": "/static/js/main.8ed93b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc69d60.css",
+    "static/js/main.8ed93b89.js"
+  ]
+}
