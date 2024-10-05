@@ -6,7 +6,7 @@ import Todo from "./routes/Todo";
 
 const Router = () => {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<Routes>
 				<Route
 					path="/"
