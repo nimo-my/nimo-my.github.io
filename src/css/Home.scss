@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	padding: 0;
+
+	// position: flex;
+	background-size: cover;
+	// align-content: center;
+	// background-position: center top;
+}
+
+.mainWrapper {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+	margin-bottom: 10px;
+	gap: 5px;
+}
+
+.mainImage {
+	width: 300px;
+	position: flex;
+	height: 700px;
+	transform: scale(0.5);
+	background-image: url(../../asset/img/lucky_rabbit.jpeg);
+	background-position: center;
+	align-content: center;
+}
+
+.textWrapper {
+	flex-direction: column;
+}
+
+.todoBackground{
+	background-color: aqua;
+}
